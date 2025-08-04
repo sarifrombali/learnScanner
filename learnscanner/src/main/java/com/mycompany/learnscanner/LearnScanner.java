@@ -25,7 +25,5 @@ public class LearnScanner {
         
         sc.close();
         
-        //test Git - this is a comment
-        
     }
 }
